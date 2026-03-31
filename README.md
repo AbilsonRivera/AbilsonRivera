@@ -9,7 +9,7 @@
 <a href="mailto:abilsonriveragarcia@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/abilsonrivera/">
+<a href="https://www.linkedin.com/in/abilson-rivera-b09a7b283">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/abilsonrivera">
@@ -66,34 +66,25 @@ enfoque: Aplicaciones web escalables con Java/Spring Boot + Next.js
 
 <br/>
 
-## 📊 &nbsp;GitHub Stats
+## 📬 &nbsp;Contáctame
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abilsonrivera&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abilsonrivera&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</div>
+
+¿Tienes un proyecto en mente? ¡Hablemos!
 
 <br/>
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abilsonrivera&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</div>
+<a href="mailto:abilsonriveragarcia@gmail.com">
+  <img src="https://img.shields.io/badge/abilsonriveragarcia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/abilsonrivera/](https://www.linkedin.com/in/abilson-rivera-b09a7b283">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<br/>
+<br/><br/>
 
-## 🏗️ &nbsp;Contribuciones
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abilsonrivera&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" />
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=abilsonrivera&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </div>
 
 <br/>
