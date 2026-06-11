@@ -1,29 +1,31 @@
-# README GitHub Profile
-
+````md
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Abilson%20Rivera%20García&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Next.js&descSize=16&descAlignY=55&descAlign=50"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&multiline=true\&repeat=true\&width=600\&height=70\&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Next.js+%E2%80%A2+MySQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Next.js+%E2%80%A2+MySQL)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="mailto:abilsonriveragarcia@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/abilson-rivera-b09a7b283">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://github.com/abilsonrivera">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <img src="https://komarev.com/ghpvc/?username=abilsonrivera&label=Visitantes&color=1f6feb&style=for-the-badge" alt="profile views" />
 
 </div>
 
 <br/>
 
-## 👨‍💻 Sobre mí
+# 👨‍💻 Sobre mí
 
 ```yaml
 nombre: Abilson Rivera García
@@ -31,18 +33,18 @@ ubicación: Neiva, Huila 🇨🇴
 rol_actual: Full Stack Developer @ Grupo Hay Plan
 educación: Ingeniería de Software — FET (en curso)
 enfoque: Desarrollo de aplicaciones web con Java/Spring Boot + Next.js
-```
+````
 
-* 🔭 Actualmente trabajo como **Full Stack Developer** en **Grupo Hay Plan**
+* 🔭 Trabajo como **Full Stack Developer** en **Grupo Hay Plan**
 * ⚙️ Desarrollo backend con **Java, Spring Boot, APIs REST, JWT y MySQL**
 * 🎨 Desarrollo frontend con **Next.js, React, Tailwind CSS y diseño responsivo**
-* 🎓 Estudiante de **Ingeniería de Software** en la FET
+* 🎓 Estudiante de **Ingeniería de Software**
 * 🚀 Apasionado por la tecnología, la innovación y el aprendizaje continuo
 * 💡 Interesado en arquitectura de software, SaaS y soluciones empresariales
 
 <br/>
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -72,28 +74,7 @@ enfoque: Desarrollo de aplicaciones web con Java/Spring Boot + Next.js
 
 <br/>
 
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abilsonrivera&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abilsonrivera&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br/>
-
-## 🚀 Actualmente
-
-* Construyendo aplicaciones web modernas con **Spring Boot** y **Next.js**
-* Aprendiendo mejores prácticas de arquitectura de software
-* Fortaleciendo conocimientos en desarrollo backend y frontend
-* Explorando soluciones SaaS y plataformas empresariales
-
-<br/>
-
-## 📬 Contáctame
+# 📬 Contacto
 
 <div align="center">
 
@@ -122,3 +103,4 @@ enfoque: Desarrollo de aplicaciones web con Java/Spring Boot + Next.js
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer"/>
+```
